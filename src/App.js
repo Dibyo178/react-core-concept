@@ -180,7 +180,7 @@ function Counter() {
         }
       }}>
 
-      </button>
+     Decrease </button>
      
       {/* <button onClick={handleIncrease}>Increase</button> */}
       {/* <button onClick={()=>setCount(count-1)}>Decrease</button> */}
